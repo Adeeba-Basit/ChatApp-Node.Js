@@ -1,0 +1,27 @@
+.background{
+    background: linear-gradient(rgb(9, 219, 121),rgb(111, 169, 32));
+}
+
+.mid-section{
+    height: 500px;
+    /* background-color: blueviolet; */
+    overflow: auto;
+}
+.para{
+   background: linear-gradient(rgb(9, 219, 121),rgb(111, 169, 32));
+   color: white;
+   padding: 30px;
+   width: 75%;
+}
+.mid-para{
+    text-align: center;
+    clear: both;
+    background-color: bisque;
+}
+.first{
+    height: 85%;
+    overflow: auto;
+}
+.second{
+    height: 15%;
+}
